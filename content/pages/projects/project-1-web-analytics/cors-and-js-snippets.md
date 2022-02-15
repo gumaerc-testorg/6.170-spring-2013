@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Project 1: Web Analytics'
+parent_type: CourseSection
 parent_uid: a34b2caf-5ee0-ad39-fbb0-ce7fdbaa7ac2
 title: CORS and JS Snippets
 uid: ceb361c5-b072-40aa-2ed1-db9fa52890cf

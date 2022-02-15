@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 6b6aaff6-5564-7548-6cac-616cb72ef1ea
 ---
@@ -47,7 +50,7 @@ No readings assigned
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -96,7 +99,7 @@ Benson, Edward. "Resources and REST." Chapter 6 in _Art of Rails (Programmer to 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -131,7 +134,7 @@ Ullman, Jeffrey D., and Jennifer Widom. "The Relational Data Model." Chapter 3 i
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -176,7 +179,7 @@ Brooks, Frederick P., Jr. "Aristocracy, Democracy, and System Design." Chapter 4
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -241,7 +244,7 @@ Porter, Joshua. "[Principles of User Interface Design](http://bokardo.com/princi
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -326,7 +329,7 @@ Brooks, Frederick P., Jr. "Plan to Throw One Away." Chapter 18 in _The Mythical 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}

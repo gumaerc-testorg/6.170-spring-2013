@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: 0929dbf5-8d9f-5890-c0e7-d9165d7c8809
 title: 'Ruby on Rails: Hints and Gotcha''s'
 uid: 360bda6e-9b4d-44ab-d682-120d3eace2cd

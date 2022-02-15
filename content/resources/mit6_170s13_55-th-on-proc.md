@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 55.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-170-software-studio-spring-2013/5fa576597d71d2be10337e4c602d271c_MIT6_170S13_55-th-on-proc.pdf
+file: /media/courses/6-170-software-studio-spring-2013/5fa576597d71d2be10337e4c602d271c_MIT6_170S13_55-th-on-proc.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Thoughts on the Software Process
 uid: 5fa57659-7d71-d2be-1033-7e4c602d271c

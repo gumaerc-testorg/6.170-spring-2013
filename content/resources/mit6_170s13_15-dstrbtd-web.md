@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 15.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-170-software-studio-spring-2013/1a1b194842fbc13810bf23148b709de8_MIT6_170S13_15-dstrbtd-web.pdf
+file: /media/courses/6-170-software-studio-spring-2013/1a1b194842fbc13810bf23148b709de8_MIT6_170S13_15-dstrbtd-web.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: The Web as a Platform for Distributed Computing
 uid: 1a1b1948-42fb-c138-10bf-23148b709de8

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 11.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-170-software-studio-spring-2013/33c8b43002321bc6e32af0fa421dc8b2_MIT6_170S13_11-mdl-vw-cntrl.pdf
+file: /media/courses/6-170-software-studio-spring-2013/33c8b43002321bc6e32af0fa421dc8b2_MIT6_170S13_11-mdl-vw-cntrl.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Model-View-Controller
 uid: 33c8b430-0232-1bc6-e32a-f0fa421dc8b2

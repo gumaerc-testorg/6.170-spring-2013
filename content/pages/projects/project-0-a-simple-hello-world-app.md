@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 1b52d2eb-781f-59fc-2005-cfdb8156e288
 title: 'Project 0: A Simple "Hello World" App'
 uid: cd84f10e-c926-28f6-ea47-ff224e7fdfd5

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 40.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-170-software-studio-spring-2013/1258e629d24b94d8203e457c512a3ee1_MIT6_170S13_40-java-prot.pdf
+file: /media/courses/6-170-software-studio-spring-2013/1258e629d24b94d8203e457c512a3ee1_MIT6_170S13_40-java-prot.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'JavaScript: Prototypes'
 uid: 1258e629-d24b-94d8-203e-457c512a3ee1

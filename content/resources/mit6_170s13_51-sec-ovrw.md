@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 51.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-170-software-studio-spring-2013/e8d609c9d2d769ce5dd4d3167c71af28_MIT6_170S13_51-sec-ovrw.pdf
+file: /media/courses/6-170-software-studio-spring-2013/e8d609c9d2d769ce5dd4d3167c71af28_MIT6_170S13_51-sec-ovrw.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Security: Overview'
 uid: e8d609c9-d2d7-69ce-5dd4-d3167c71af28

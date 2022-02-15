@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: cf1ce8a7-b030-ae95-29fe-ab84f20f3ff2
 ---
@@ -26,7 +29,7 @@ NOTES
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="7" >}}
 Introduction & Web Basics
 {{< tdclose >}}
 {{< tdopen >}}
@@ -77,7 +80,7 @@ Introduction & Web Basics
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Routing & Model-View-Controller Design
 {{< tdclose >}}
 {{< tdopen >}}
@@ -104,7 +107,7 @@ Routing & Model-View-Controller Design
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Dependency & REST
 {{< tdclose >}}
 {{< tdopen >}}
@@ -143,7 +146,7 @@ Dependency & REST
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 Introduction to Data & Object Modeling
 {{< tdclose >}}
 {{< tdopen >}}
@@ -182,7 +185,7 @@ Introduction to Data & Object Modeling
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Relational Data Model
 {{< tdclose >}}
 {{< tdopen >}}
@@ -209,7 +212,7 @@ Relational Data Model
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Design Concepts
 {{< tdclose >}}
 {{< tdopen >}}
@@ -236,7 +239,7 @@ Design Concepts
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Design & Code Reviews for Project 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -257,7 +260,7 @@ Design & Code Reviews for Project 1
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Intro to JavaScript
 {{< tdclose >}}
 {{< tdopen >}}
@@ -278,7 +281,7 @@ Intro to JavaScript
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="7" >}}
 Closures
 {{< tdclose >}}
 {{< tdopen >}}
@@ -329,7 +332,7 @@ Closures
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 DOM
 {{< tdclose >}}
 {{< tdopen >}}
@@ -362,7 +365,7 @@ DOM
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Events & Ajax
 {{< tdclose >}}
 {{< tdopen >}}
@@ -398,7 +401,7 @@ Design Review for Project 2
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Web Security
 {{< tdclose >}}
 {{< tdopen >}}
@@ -425,7 +428,7 @@ Web Security
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Software Development Methods
 {{< tdclose >}}
 {{< tdopen >}}
@@ -446,7 +449,7 @@ Software Development Methods
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Designing Dependable Software
 {{< tdclose >}}
 {{< tdopen >}}
@@ -473,7 +476,7 @@ Designing Dependable Software
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 
 
 Presenting Your Ideas

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 45.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-170-software-studio-spring-2013/e1240c5664b2aaab68a07af421d38a19_MIT6_170S13_45-dom-list.pdf
+file: /media/courses/6-170-software-studio-spring-2013/e1240c5664b2aaab68a07af421d38a19_MIT6_170S13_45-dom-list.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'DOM: Events & Listeners'
 uid: e1240c56-64b2-aaab-68a0-7af421d38a19

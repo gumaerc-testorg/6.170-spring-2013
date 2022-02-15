@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 25.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-170-software-studio-spring-2013/cb571aa72939fb6a8c8732d5daabb98c_MIT6_170S13_25-imp-gen.pdf
+file: /media/courses/6-170-software-studio-spring-2013/cb571aa72939fb6a8c8732d5daabb98c_MIT6_170S13_25-imp-gen.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Implementing Generalizations
 uid: cb571aa7-2939-fb6a-8c87-32d5daabb98c

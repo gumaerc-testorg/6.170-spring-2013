@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 58.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-170-software-studio-spring-2013/a2acea2dbfdf2cce822ab7253509eaa0_MIT6_170S13_58-anal-ogn.pdf
+file: /media/courses/6-170-software-studio-spring-2013/a2acea2dbfdf2cce822ab7253509eaa0_MIT6_170S13_58-anal-ogn.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Analyzing Origins
 uid: a2acea2d-bfdf-2cce-822a-b7253509eaa0

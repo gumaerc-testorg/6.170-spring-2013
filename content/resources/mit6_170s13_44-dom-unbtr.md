@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 44.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-170-software-studio-spring-2013/ac602dc3d5f40fdeb8d2b6a88afaf36c_MIT6_170S13_44-dom-unbtr.pdf
+file: /media/courses/6-170-software-studio-spring-2013/ac602dc3d5f40fdeb8d2b6a88afaf36c_MIT6_170S13_44-dom-unbtr.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'DOM: Unobtrusive JavaScript'
 uid: ac602dc3-d5f4-0fde-b8d2-b6a88afaf36c

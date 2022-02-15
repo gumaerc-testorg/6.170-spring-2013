@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 46.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-170-software-studio-spring-2013/3d214f422bce315227ea5d05853cfada_MIT6_170S13_46-dom-stars.pdf
+file: /media/courses/6-170-software-studio-spring-2013/3d214f422bce315227ea5d05853cfada_MIT6_170S13_46-dom-stars.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'DOM: Star Rating Widget Example'
 uid: 3d214f42-2bce-3152-27ea-5d05853cfada
