@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cf1ce8a7-b030-ae95-29fe-ab84f20f3ff2
 resourcetype: Document
 title: 'Design Review: Project 2'
 uid: 4c185f8b-bbe2-5b4c-6851-6cf4bdb1dabf

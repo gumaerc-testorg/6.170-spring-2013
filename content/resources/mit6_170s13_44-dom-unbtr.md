@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cf1ce8a7-b030-ae95-29fe-ab84f20f3ff2
 resourcetype: Document
 title: 'DOM: Unobtrusive JavaScript'
 uid: ac602dc3-d5f4-0fde-b8d2-b6a88afaf36c

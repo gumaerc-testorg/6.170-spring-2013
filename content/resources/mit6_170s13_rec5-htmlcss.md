@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: d7a647f3-28ab-84d8-1ca5-1afd7100e87a
 resourcetype: Document
 title: 'Recitation 5: HTML & CSS'
 uid: c4745975-3b95-db62-7e5a-f2195cc104ac

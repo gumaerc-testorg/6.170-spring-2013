@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cf1ce8a7-b030-ae95-29fe-ab84f20f3ff2
 resourcetype: Document
 title: 'DOM: Star Rating Widget Example'
 uid: 3d214f42-2bce-3152-27ea-5d05853cfada

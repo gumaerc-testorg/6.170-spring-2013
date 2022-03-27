@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cf1ce8a7-b030-ae95-29fe-ab84f20f3ff2
 resourcetype: Document
 title: 'Code Review: Project 1'
 uid: 86f00b1e-1eef-181e-a5d8-38c3ab366c82

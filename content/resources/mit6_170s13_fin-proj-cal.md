@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 1b52d2eb-781f-59fc-2005-cfdb8156e288
 resourcetype: Document
 title: Final Project Schedule
 uid: 5da8303a-4c8e-3f14-549d-3a5be0dbf752

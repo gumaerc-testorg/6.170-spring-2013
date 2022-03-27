@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cf1ce8a7-b030-ae95-29fe-ab84f20f3ff2
 resourcetype: Document
 title: 'JavaScript: Objects, Literals & Constructors'
 uid: c10f2cf9-6d1f-e497-678e-d1c0ddd94d00

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: d7a647f3-28ab-84d8-1ca5-1afd7100e87a
 resourcetype: Document
 title: 'Recitation 0: Development Environment Setup and First App'
 uid: b58bfbc3-0c9f-f12e-806f-9e1742cc3e77

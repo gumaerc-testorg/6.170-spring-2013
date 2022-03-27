@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: d7a647f3-28ab-84d8-1ca5-1afd7100e87a
 resourcetype: Document
 title: 'Recitation 4: Sessions and Authentication'
 uid: 060eff85-8447-6659-8732-4630ccc42026

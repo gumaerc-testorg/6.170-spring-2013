@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: d7a647f3-28ab-84d8-1ca5-1afd7100e87a
 resourcetype: Document
 title: 'Recitation 7 Slides: Some Best Practices in Rails Security'
 uid: b82ea9c9-8eb9-b97f-aff3-a44bb2d34e1e

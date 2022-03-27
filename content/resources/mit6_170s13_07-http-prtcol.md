@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cf1ce8a7-b030-ae95-29fe-ab84f20f3ff2
 resourcetype: Document
 title: 'HTTP: Hypertext Transfer Protocol'
 uid: fee5e84c-1834-966a-08fb-46ecfeafe0f3

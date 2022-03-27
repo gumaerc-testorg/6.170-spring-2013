@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: d7a647f3-28ab-84d8-1ca5-1afd7100e87a
 resourcetype: Document
 title: 'Recitation 7: Rails Security'
 uid: 9d4bbcd0-29fd-6ca3-2170-ae93ede16c47

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cf1ce8a7-b030-ae95-29fe-ab84f20f3ff2
 resourcetype: Document
 title: 'FeedAGeek: Sample Pitch v1a'
 uid: 41a5b3d4-1ad0-4685-7328-1c0657a2a2c5
