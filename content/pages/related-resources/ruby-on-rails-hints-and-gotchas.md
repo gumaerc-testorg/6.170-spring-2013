@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides tips on using the Ruby on Rails web application
+  framework.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources
@@ -110,7 +112,7 @@ One last tip: from a view, you may find yourself wanting to insert some HTML int
 3.  In the view, you can now do something like:
 
 ```
- <% content_for :head do %>
+   <% content_for :head do %>
       this_will get_inserted_into_the_head_tag
    <% end %>
 ```

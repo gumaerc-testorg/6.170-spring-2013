@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the course projects, including an introductory
+  project, three solo projects, and a final team project.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Projects
 uid: 1b52d2eb-781f-59fc-2005-cfdb8156e288
 ---
 
-In this class, you will do an introductory project, followed by three solo projects, and lastly a final team project. The aim of these projects is to develop your design skills, to give you practice using the design ideas and representations taught in the class, and to help you become familiar with the implementation and infrastructure technologies. Project development and outcomes will be guided by the [Project Checklist (PDF)]({{< baseurl >}}/resources/mit6_170s13_proj-chklst).
+In this class, you will do an introductory project, followed by three solo projects, and lastly a final team project. The aim of these projects is to develop your design skills, to give you practice using the design ideas and representations taught in the class, and to help you become familiar with the implementation and infrastructure technologies. Project development and outcomes will be guided by the {{% resource_link a5bcd8f9-8c3b-4e39-1170-02331fee576b "Project Checklist (PDF)" %}}.
 
 The infrastructure for all projects is the same. All your work will be checked into a repository on GitHub. Moreover, in line with modern practice, your projects will be continually deployed (that is, deployed to a public Heroku site after each phase). There will be no special hand-in procedure. After the deadline for the project phase, the staff will grade whatever is in your GitHub repository.
 
@@ -20,10 +22,10 @@ We realize that in a course like this, there is a lot to learn: many different t
 
 Below are links to the details including descriptions, deliverables, and hints pertaining to the introductory project and each of the solo projects:
 
-*   [Project 0: A Simple "Hello World" App]({{< baseurl >}}/pages/projects/project-0-a-simple-hello-world-app)
-*   [Project 1: Web Analytics]({{< baseurl >}}/pages/projects/project-1-web-analytics)
-*   [Project 2: Shopping Cart]({{< baseurl >}}/pages/projects/project-2-shopping-cart)
-*   [Project 3: Network Stickies]({{< baseurl >}}/pages/projects/project-3-network-stickies)
+*   {{% resource_link cd84f10e-c926-28f6-ea47-ff224e7fdfd5 "Project 0: A Simple \"Hello World\" App" %}}
+*   {{% resource_link a34b2caf-5ee0-ad39-fbb0-ce7fdbaa7ac2 "Project 1: Web Analytics" %}}
+*   {{% resource_link 20735433-db81-6010-17a0-c8daa1a923e7 "Project 2: Shopping Cart" %}}
+*   {{% resource_link 0d24d28e-38e9-aeba-0a38-f6372fba5d1f "Project 3: Network Stickies" %}}
 
 Final Project Overview
 ----------------------
@@ -40,9 +42,9 @@ For the final project, all the activities will be required, and are cumulative. 
 
 Below are resources for the final projects:
 
-*   [Final Project Guidelines]({{< baseurl >}}/pages/projects/final-project-guidelines)
-*   [Final Project Ideas]({{< baseurl >}}/pages/projects/final-project-ideas)
-*   [Final Project Schedule (PDF)]({{< baseurl >}}/resources/mit6_170s13_fin-proj-cal) with key deliverables and dates
+*   {{% resource_link 05d04175-ee26-9075-a490-a2b40d25c00d "Final Project Guidelines" %}}
+*   {{% resource_link 74dc8725-36ca-d9b0-c77d-60f21a3e12ce "Final Project Ideas" %}}
+*   {{% resource_link 5da8303a-4c8e-3f14-549d-3a5be0dbf752 "Final Project Schedule (PDF)" %}} with key deliverables and dates
 
 Hints
 -----

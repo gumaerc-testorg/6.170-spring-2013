@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides tutorials used for the course recitations.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -29,9 +30,9 @@ TOPICS
 {{< tdopen >}}
 
 
-[Development Environment Setup & First App (PDF)]({{< baseurl >}}/resources/mit6_170s13_rec0devenvset)
+{{% resource_link b58bfbc3-0c9f-f12e-806f-9e1742cc3e77 "Development Environment Setup & First App (PDF)" %}}
 
-[Git (PDF)]({{< baseurl >}}/resources/mit6_170s13_rec1-git)
+{{% resource_link 9395cd55-06f9-5fee-592d-dadfa920b0ee "Git (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -42,7 +43,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Rails Basics (PDF)]({{< baseurl >}}/resources/mit6_170s13_rec2-railsbas)
+{{% resource_link 9b49a725-7c00-7519-d7b8-475f1b3da140 "Rails Basics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +52,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Ruby Basics (PDF)]({{< baseurl >}}/resources/mit6_170s13_rec3-ruby)
+{{% resource_link 2e69ee44-f007-cdd7-bdc8-4e476cda97f9 "Ruby Basics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +61,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Sessions & Authentication (PDF)]({{< baseurl >}}/resources/mit6_170s13_rec4-sessauthen)
+{{% resource_link 060eff85-8447-6659-8732-4630ccc42026 "Sessions & Authentication (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +70,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[HTML & CSS (PDF - 2.3MB)]({{< baseurl >}}/resources/mit6_170s13_rec5-htmlcss)
+{{% resource_link c4745975-3b95-db62-7e5a-f2195cc104ac "HTML & CSS (PDF - 2.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +79,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[jQuery (PDF)]({{< baseurl >}}/resources/mit6_170s13_rec6-jquery)
+{{% resource_link 646097a0-72ea-684f-1823-7b44f42db548 "jQuery (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,9 +90,9 @@ TOPICS
 {{< tdopen >}}
 
 
-[Rails Security (PDF)]({{< baseurl >}}/resources/mit6_170s13_rec7-railssec)
+{{% resource_link 9d4bbcd0-29fd-6ca3-2170-ae93ede16c47 "Rails Security (PDF)" %}}
 
-[Best Practices in Rails Security (PDF)]({{< baseurl >}}/resources/mit6_170s13_rec7-railssecs)  
+{{% resource_link b82ea9c9-8eb9-b97f-aff3-a44bb2d34e1e "Best Practices in Rails Security (PDF)" %}}  
 _Courtesy of Joshua Ma. Used with permission_.
 
 
@@ -103,7 +104,7 @@ _Courtesy of Joshua Ma. Used with permission_.
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Rails Testing (PDF)]({{< baseurl >}}/resources/mit6_170s13_rec8-railstes)
+{{% resource_link aaa58e03-cc5e-7fa1-46e1-e9aa340af822 "Rails Testing (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-170-software-studio-spring-2013/4c185f8bbbe25b4c68516cf4bdb1dabf_MIT6_170S13_50-p2-review.pdf
+file: /courses/6-170-software-studio-spring-2013/4c185f8bbbe25b4c68516cf4bdb1dabf_MIT6_170S13_50-p2-review.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

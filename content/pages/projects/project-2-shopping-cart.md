@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a project overview, the list of deliverables, and
+  hints for a project to build a basic shopping card application.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

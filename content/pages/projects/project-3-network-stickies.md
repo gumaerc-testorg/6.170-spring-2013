@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section provides a project overview and the list of deliverables
+  for a project to design and implement a sticky note application as a JavaScript
+  program running client side, with state persisted on a web server.    '
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

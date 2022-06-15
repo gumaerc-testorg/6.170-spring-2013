@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 39.
-file: /media/courses/6-170-software-studio-spring-2013/ac8ff1830ce6b0886b13b8ff4b353d71_MIT6_170S13_39-java-adts.pdf
+file: /courses/6-170-software-studio-spring-2013/ac8ff1830ce6b0886b13b8ff4b353d71_MIT6_170S13_39-java-adts.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 'JavaScript: Abstract Types'
 uid: ac8ff183-0ce6-b088-6b13-b8ff4b353d71
 ---
+This file contains information regarding lecture 39.
+
