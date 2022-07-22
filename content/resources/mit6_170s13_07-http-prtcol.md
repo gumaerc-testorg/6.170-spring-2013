@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/fee5e84c1834966a08fb46ecfeafe0f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'HTTP: Hypertext Transfer Protocol'
 uid: fee5e84c-1834-966a-08fb-46ecfeafe0f3
 ---
 This file contains information regarding lecture 07.
-

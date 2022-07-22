@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/b58bfbc30c9ff12e806f9e1742cc3e7
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Recitation 0: Development Environment Setup and First App'
 uid: b58bfbc3-0c9f-f12e-806f-9e1742cc3e77
 ---
 This file contains information regarding recitation 0.
-

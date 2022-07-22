@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/09a34ff87e5a56679dbd6fb67c94537
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'JavaScript: Intro'
 uid: 09a34ff8-7e5a-5667-9dbd-6fb67c945373
 ---
 This file contains information regarding lecture 32.
-

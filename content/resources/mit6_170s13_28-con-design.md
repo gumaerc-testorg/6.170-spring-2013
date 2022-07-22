@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/fba964ce0817bed1cb666febfce5f26
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Design Concepts: Design Moves'
 uid: fba964ce-0817-bed1-cb66-6febfce5f26f
 ---
 This file contains information regarding lecture 28.
-

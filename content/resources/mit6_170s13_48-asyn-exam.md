@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/23728628acd5486841f72e85b02ef24
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Ajax: Examples'
 uid: 23728628-acd5-4868-41f7-2e85b02ef24c
 ---
 This file contains information regarding lecture 48.
-

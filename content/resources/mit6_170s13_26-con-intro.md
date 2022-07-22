@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/7673900e3f0c778ef27f274ccb541a6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Design Concepts: Intro'
 uid: 7673900e-3f0c-778e-f27f-274ccb541a6a
 ---
 This file contains information regarding lecture 26.
-

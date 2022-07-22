@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/507199fa95ba5d27942b2769eb22885
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: The Domain Name System
 uid: 507199fa-95ba-5d27-942b-2769eb228854
 ---
 This file contains information regarding lecture 05.
-

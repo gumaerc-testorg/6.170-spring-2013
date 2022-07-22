@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/d255d970e8da2f5ae8586b1d00a3a58
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'JavaScript: Closure Examples'
 uid: d255d970-e8da-2f5a-e858-6b1d00a3a580
 ---
 This file contains information regarding lecture 36.
-

@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/42e56d84b2d84ca6ca1c058fb492cd5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Software Development Processes
 uid: 42e56d84-b2d8-4ca6-ca1c-058fb492cd54
 ---
 This file contains information regarding lecture 54.
-

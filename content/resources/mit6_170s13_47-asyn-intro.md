@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/2e772463eebb035f1b5d38accee189e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Ajax: Introduction'
 uid: 2e772463-eebb-035f-1b5d-38accee189ed
 ---
 This file contains information regarding lecture 47.
-

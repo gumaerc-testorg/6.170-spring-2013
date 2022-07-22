@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/4c185f8bbbe25b4c68516cf4bdb1dab
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

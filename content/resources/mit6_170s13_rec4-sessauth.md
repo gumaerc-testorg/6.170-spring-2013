@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/7e69522ad48df4bbbd8e019add74c8d
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Recitation 4: Sessions and Authentication'
 uid: 7e69522a-d48d-f4bb-bd8e-019add74c8de
 ---
 This file contains information regarding recitation 4.
-

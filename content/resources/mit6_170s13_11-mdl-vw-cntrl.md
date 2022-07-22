@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/33c8b43002321bc6e32af0fa421dc8b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Model-View-Controller
 uid: 33c8b430-0232-1bc6-e32a-f0fa421dc8b2
 ---
 This file contains information regarding lecture 11.
-

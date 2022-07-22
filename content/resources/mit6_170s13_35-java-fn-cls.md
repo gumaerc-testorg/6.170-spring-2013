@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/679f1c8ddab704fcf6983cad517fb9e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'JavaScript: Functions, Scope & Closures'
 uid: 679f1c8d-dab7-04fc-f698-3cad517fb9e5
 ---
 This file contains information regarding lecture 35.
-

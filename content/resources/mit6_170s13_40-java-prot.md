@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/1258e629d24b94d8203e457c512a3ee
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'JavaScript: Prototypes'
 uid: 1258e629-d24b-94d8-203e-457c512a3ee1
 ---
 This file contains information regarding lecture 40.
-

@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/86f00b1e1eef181ea5d838c3ab366c8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Code Review: Project 1'
 uid: 86f00b1e-1eef-181e-a5d8-38c3ab366c82
 ---
 This file contains information regarding lecture 31.
-

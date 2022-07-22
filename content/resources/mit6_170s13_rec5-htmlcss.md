@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/c47459753b95db627e5af2195cc104a
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Recitation 5: HTML & CSS'
 uid: c4745975-3b95-db62-7e5a-f2195cc104ac
 ---
 This file contains information regarding recitation 5.
-

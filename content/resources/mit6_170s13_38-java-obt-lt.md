@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/c10f2cf96d1fe497678ed1c0ddd94d0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'JavaScript: Objects, Literals & Constructors'
 uid: c10f2cf9-6d1f-e497-678e-d1c0ddd94d00
 ---
 This file contains information regarding lecture 38.
-

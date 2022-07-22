@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/7b9a95c88fda7acd366c2e28d4838d2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Design Review: Project 1'
 uid: 7b9a95c8-8fda-7acd-366c-2e28d4838d20
 ---
 This file contains information regarding lecture 30.
-

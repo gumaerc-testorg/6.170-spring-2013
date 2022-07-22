@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/defb9375c40b3087c471aa0fc718245
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'FeedAGeek: Sample Pitch v1'
 uid: defb9375-c40b-3087-c471-aa0fc7182453
 ---
 This file contains information regarding lecture 62.
-

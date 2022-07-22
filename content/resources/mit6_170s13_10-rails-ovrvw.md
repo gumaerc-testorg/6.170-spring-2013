@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/41673afb1ac2f91f3724fd7d28c5da1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: An Overview of Rails
 uid: 41673afb-1ac2-f91f-3724-fd7d28c5da14
 ---
 This file contains information regarding lecture 10.
-

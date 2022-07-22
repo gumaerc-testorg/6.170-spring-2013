@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/baa905f1c077ffb1c8c2f2e03e4a510
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Design Concepts: Identifying Concepts'
 uid: baa905f1-c077-ffb1-c8c2-f2e03e4a5100
 ---
 This file contains information regarding lecture 27.
-

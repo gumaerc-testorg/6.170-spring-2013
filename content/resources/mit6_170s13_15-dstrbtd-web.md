@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/1a1b194842fbc13810bf23148b709de
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: The Web as a Platform for Distributed Computing
 uid: 1a1b1948-42fb-c138-10bf-23148b709de8
 ---
 This file contains information regarding lecture 15.
-

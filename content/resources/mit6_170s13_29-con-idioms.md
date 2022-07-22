@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/e27f5e7ca6cd3bf503ade9041fbcf2f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Design Concepts: Idioms'
 uid: e27f5e7c-a6cd-3bf5-03ad-e9041fbcf2fa
 ---
 This file contains information regarding lecture 29.
-

@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/4e09b2eb4f095ad463dc66a43c4487e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'JavaScript: Functionals'
 uid: 4e09b2eb-4f09-5ad4-63dc-66a43c4487e3
 ---
 This file contains information regarding lecture 37.
-

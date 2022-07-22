@@ -5,6 +5,7 @@ file: /courses/6-170-software-studio-spring-2013/72b78328babff6594b83321a27195d6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Perils & Pleasures of PPT
 uid: 72b78328-babf-f659-4b83-321a27195d61
 ---
 This file contains information regarding lecture 61.
-
