@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides links to related resources on software as a service,
+  Ruby, Ruby on Rails, HTML, CSS, Git, and Github.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 0929dbf5-8d9f-5890-c0e7-d9165d7c8809
 ---
@@ -20,7 +24,7 @@ Ruby & Ruby on Rails
 *   [Ruby on Rails Guides](http://guides.rubyonrails.org/)
 *   [Ruby on Rails API](http://api.rubyonrails.org/)
 
-A list of [hints and gotcha's for Ruby on Rails]({{< baseurl >}}/pages/related-resources/ruby-on-rails-hints-and-gotchas) that are relevant to this course are also provided as a resource for students.
+A list of {{% resource_link 360bda6e-9b4d-44ab-d682-120d3eace2cd "hints and gotcha's for Ruby on Rails" %}} that are relevant to this course are also provided as a resource for students.
 
 HTML & CSS
 ----------

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the the schedule of weekly readings and a list
+  of recommended books.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 6b6aaff6-5564-7548-6cac-616cb72ef1ea
 ---
@@ -47,7 +52,7 @@ No readings assigned
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -96,7 +101,7 @@ Benson, Edward. "Resources and REST." Chapter 6 in _Art of Rails (Programmer to 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -131,7 +136,7 @@ Ullman, Jeffrey D., and Jennifer Widom. "The Relational Data Model." Chapter 3 i
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -176,7 +181,7 @@ Brooks, Frederick P., Jr. "Aristocracy, Democracy, and System Design." Chapter 4
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -189,7 +194,7 @@ Tony Hoare is an influential British computer scientist, perhaps best known for 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Hoare, C. A. R. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Emperor's Old Clothes." (PDF)](https://dl.acm.org/doi/10.1145/358549.358561) _Communications of the ACM_ 24, no. 2 (1981): 75–83.
+Hoare, C. A. R. ["The Emperor's Old Clothes." (PDF)](https://dl.acm.org/doi/10.1145/358549.358561) _Communications of the ACM_ 24, no. 2 (1981): 75–83.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,7 +246,7 @@ Porter, Joshua. "[Principles of User Interface Design](http://bokardo.com/princi
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -326,7 +331,7 @@ Brooks, Frederick P., Jr. "Plan to Throw One Away." Chapter 18 in _The Mythical 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}

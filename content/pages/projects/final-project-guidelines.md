@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section provides guidelines for the team final project of the course.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 1b52d2eb-781f-59fc-2005-cfdb8156e288
 title: Final Project Guidelines
 uid: 05d04175-ee26-9075-a490-a2b40d25c00d

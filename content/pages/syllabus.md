@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on course meeting times, objectives, structure, collaboration and grading, and the
+  class contract.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4b4e1986-753a-956b-1d98-ca07abfe00df
 ---

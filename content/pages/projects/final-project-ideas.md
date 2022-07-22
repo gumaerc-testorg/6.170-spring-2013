@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides a list of sample topics for the final project of
+  the course.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 1b52d2eb-781f-59fc-2005-cfdb8156e288
 title: Final Project Ideas
 uid: 74dc8725-36ca-d9b0-c77d-60f21a3e12ce

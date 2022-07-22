@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section provides examples of CORS and JavaScript snippets for use
+  with the course projects.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Project 1: Web Analytics'
+parent_type: CourseSection
 parent_uid: a34b2caf-5ee0-ad39-fbb0-ce7fdbaa7ac2
 title: CORS and JS Snippets
 uid: ceb361c5-b072-40aa-2ed1-db9fa52890cf
 ---
 
-[« Back to Project 1: Web Analytics]({{< baseurl >}}/pages/projects/project-1-web-analytics)
+{{% resource_link a34b2caf-5ee0-ad39-fbb0-ce7fdbaa7ac2 "« Back to Project 1: Web Analytics" %}}
 
 Same-Origin Policy and Cross-Origin Resource Sharing (CORS)
 -----------------------------------------------------------
@@ -101,4 +106,4 @@ $.ajax({
 
 It should be noted that unless jQuery is already being used, this might be wasteful as it means downloading all of jQuery just to register the page visit.
 
-[« Back to Project 1: Web Analytics]({{< baseurl >}}/pages/projects/project-1-web-analytics)
+{{% resource_link a34b2caf-5ee0-ad39-fbb0-ce7fdbaa7ac2 "« Back to Project 1: Web Analytics" %}}

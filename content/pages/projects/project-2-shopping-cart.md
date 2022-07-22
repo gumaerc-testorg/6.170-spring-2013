@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides a project overview, the list of deliverables, and
+  hints for a project to build a basic shopping card application.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 1b52d2eb-781f-59fc-2005-cfdb8156e288
 title: 'Project 2: Shopping Cart'
 uid: 20735433-db81-6010-17a0-c8daa1a923e7

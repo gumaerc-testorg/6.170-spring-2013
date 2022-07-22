@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides a project overview, the list of deliverables, and
+  hints for a project to build a web analytics service.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 1b52d2eb-781f-59fc-2005-cfdb8156e288
 title: 'Project 1: Web Analytics'
 uid: a34b2caf-5ee0-ad39-fbb0-ce7fdbaa7ac2
@@ -64,7 +70,7 @@ Hints
 
 **Transitioning to Phase 2.** Do not expect to keep your code from Phase 1 when you build Phase 2; it might be easier just to start again. In particular, Phase 1 is intended just to get you going, and not to bias you towards any particular way of representing sites or visits.
 
-**JavaScript Snippet.** We are providing you with a [sample JavaScript snippet]({{< baseurl >}}/pages/projects/project-1-web-analytics/cors-and-js-snippets), which you can modify and use in your code.
+**JavaScript Snippet.** We are providing you with a {{% resource_link ceb361c5-b072-40aa-2ed1-db9fa52890cf "sample JavaScript snippet" %}}, which you can modify and use in your code.
 
 **\[JS\] Getting information about the current page.** You can find information about the current page in JavaScript via the location variable. For example, try opening a console on a page like http://www.reddit.com/r/mit and see what `location.pathname` gets you. (You can also just type location and click the dropdown on the returned object to explore the other properties.)
 

@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides details on the first introductory project of the
+  course, including an overview, deliverables, and hints.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 1b52d2eb-781f-59fc-2005-cfdb8156e288
 title: 'Project 0: A Simple "Hello World" App'
 uid: cd84f10e-c926-28f6-ea47-ff224e7fdfd5
@@ -11,7 +17,7 @@ Overview
 
 In this project, you will install the software for all your projects and build a very simple "Hello World App" using Ruby on Rails.
 
-All the steps for the creation of your first app are available in the tutorial, Development Environment Setup and First App, under Week 1 of the [Recitations]({{< baseurl >}}/pages/recitations).
+All the steps for the creation of your first app are available in the tutorial, Development Environment Setup and First App, under Week 1 of the {{% resource_link d7a647f3-28ab-84d8-1ca5-1afd7100e87a "Recitations" %}}.
 
 Deliverables
 ------------
