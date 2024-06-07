@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 26.
 file: /courses/6-170-software-studio-spring-2013/7673900e3f0c778ef27f274ccb541a6a_MIT6_170S13_26-con-intro.pdf
+file_size: 1281729
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

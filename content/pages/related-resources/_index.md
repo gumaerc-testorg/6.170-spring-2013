@@ -31,10 +31,8 @@ A list of {{% resource_link "360bda6e-9b4d-44ab-d682-120d3eace2cd" "hints and go
 ## Git & GitHub
 
 - [Git Documentation](http://git-scm.com/documentation)
-- [Git - SVN Crash Course](http://git.or.cz/course/svn.html)
 - [An Illustrated Guide to Git on Windows](https://nathanj.github.io/gitguide/tour.html)
 - [try.github.com](http://try.github.io/) (beginner)
 - [Understanding Git Conceptually](http://www.sbf5.com/~cduan/technical/git/) (intermediate)
-- [gitready.com](http://gitready.com/) (beginning to advanced)
 - [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/) (advanced)
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) (advanced)
