@@ -2,84 +2,52 @@
 content_type: page
 description: This section provides the the schedule of weekly readings and a list
   of recommended books.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 6b6aaff6-5564-7548-6cac-616cb72ef1ea
 ---
-
 The readings, in the form of short articles and papers, assigned for each class are listed in the table below. While there is no required textbook for the course, recommended books include:
 
-Crockford, Douglas. _JavaScript: The Good Parts_. O'Reilly Media, 2008. ISBN: 9780596517748. \[Preview with [Google Books](http://books.google.com/books?id=PXa2bby0oQ0C&pg=PAfrontcover)\]
+Crockford, Douglas. *JavaScript: The Good Parts*. O'Reilly Media, 2008. ISBN: 9780596517748. \[Preview with [Google Books](http://books.google.com/books?id=PXa2bby0oQ0C&pg=PAfrontcover)\]
 
-Fernandez, Obie. _The Rails 3 Way_. 2nd ed. Addison-Wesley Professional, 2010. ISBN: 9780321601667. \[Preview with [Google Books](http://books.google.com/books?id=slwLAqkT_Y0C&pg=PAfrontcover)\]
+Fernandez, Obie. *The Rails 3 Way*. 2nd ed. Addison-Wesley Professional, 2010. ISBN: 9780321601667. \[Preview with [Google Books](http://books.google.com/books?id=slwLAqkT_Y0C&pg=PAfrontcover)\]
 
-Fulton, Hal. _The Ruby Way, Second Edition_. 2nd ed. Addison-Wesley Professional, 2006. ISBN: 9780672328848.
+Fulton, Hal. *The Ruby Way, Second Edition*. 2nd ed. Addison-Wesley Professional, 2006. ISBN: 9780672328848.
 
-Stefanov, Stoyan. _JavaScript Patterns_. O'Reilly Media, 2010. ISBN: 9780596806750. \[Preview with [Google Books](http://books.google.com/books?id=WTZqecc9olUC&pg=PAfrontcover)\]
+Stefanov, Stoyan. *JavaScript Patterns*. O'Reilly Media, 2010. ISBN: 9780596806750. \[Preview with [Google Books](http://books.google.com/books?id=WTZqecc9olUC&pg=PAfrontcover)\]
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READING TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 **Introduction & Web Basics**
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings assigned
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen rowspan="2" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Routing & Model-View-Controller Design**
 
 These readings introduce one of the most important concepts in software engineering: decomposing a problem into separate "concerns" and tackling them one-by-one. We will begin with Dijkstra's classic paper, in which he coined the term "Separation of Concerns." The exerpts from Fowler's book describe how this concept plays a critical role in development of modern software systems. In particular, you will read about a well-known design pattern called Model-View-Controller (MVC). While reading, think about how MVC is being used to structure popular web applications, such as Twitter and Amazon.
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
+Dikstra, E. W. "[On the Role of Scientific Thought](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD447.html)." In *Selected Writings on Computing: A Personal Perspective*. Springer, 1982, pp. 60–6. ISBN: 9780387906522.
 
+Fowler, Martin. "The Three Principal Layers." Chapter 1 in *Patterns of Enterprise Application Architecture*. Addison-Wesley Professional, 2002. ISBN: 9780321127426. \[Preview with [Google Books](http://books.google.com/books?id=vqTfNFDzzdIC&printsec=frontcover)\]
 
-Dikstra, E. W. "[On the Role of Scientific Thought](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD447.html)." In _Selected Writings on Computing: A Personal Perspective_. Springer, 1982, pp. 60–6. ISBN: 9780387906522.
+———. "Model View Controller." Chapter 14 in *Patterns of Enterprise Application Architecture*. Addison-Wesley Professional, 2002. ISBN: 9780321127426.
 
-Fowler, Martin. "The Three Principal Layers." Chapter 1 in _Patterns of Enterprise Application Architecture_. Addison-Wesley Professional, 2002. ISBN: 9780321127426. \[Preview with [Google Books](http://books.google.com/books?id=vqTfNFDzzdIC&printsec=frontcover)\]
-
-———. "Model View Controller." Chapter 14 in _Patterns of Enterprise Application Architecture_. Addison-Wesley Professional, 2002. ISBN: 9780321127426.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
 **Dependency & REST**
 
@@ -87,25 +55,15 @@ Dependency is one of the most important criteria for assessing the quality of so
 
 In the second part, you will read about REST, a style of designing web applications proposed by Roy Fielding (also one of the original designers of HTTP and Apache Server). Focus on high-level concepts that distinguish REST from other styles of web application design, and do not worry too much about Rails-specific details. (The book was published in 2008, and Rails has evolved significantly over the years.)
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
+Parnas, David L. "[Designing Software for Ease of Extension and Contraction](http://dx.doi.org/10.1109/TSE.1979.234169)." *IEEE Transactions on Software Engineering* 5, no. 2 (1979): 128–38.
 
+Benson, Edward. "Resources and REST." Chapter 6 in *Art of Rails (Programmer to Programmer)*. Wrox, 2008. ISBN: 9780470189481. \[Preview with [Google Books](http://books.google.com/books?id=BaitKM5lPQUC&pg=PA115#v=onepage)\]
 
-Parnas, David L. "[Designing Software for Ease of Extension and Contraction](http://dx.doi.org/10.1109/TSE.1979.234169)." _IEEE Transactions on Software Engineering_ 5, no. 2 (1979): 128–38.
-
-Benson, Edward. "Resources and REST." Chapter 6 in _Art of Rails (Programmer to Programmer)_. Wrox, 2008. ISBN: 9780470189481. \[Preview with [Google Books](http://books.google.com/books?id=BaitKM5lPQUC&pg=PA115#v=onepage)\]
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen rowspan="2" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Introduction to Data & Object Modeling**
 
@@ -113,34 +71,19 @@ When you begin designing your new application, you will have some mental model o
 
 In the reading, you will be introduced to two different notations that are intended to help you write these models down in a systematic way. You will read Chen's classic paper, which introduced the idea of entity-relationship (ER) models. The ER model has had a tremendous influence on many fields of computer science, especially on database design, and is still widely taught and used today. Again, focus on the high-level ideas, especially in the first three sections of the paper.
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-Chen, Peter. "[The Entity-Relationship Model – Toward a Unified view of Data](http://dx.doi.org/10.1145/320434.320440)." _ACM Transactions on Database Systems_ 1, no. 1 (1976): 9–36.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
+Chen, Peter. "[The Entity-Relationship Model – Toward a Unified view of Data](http://dx.doi.org/10.1145/320434.320440)." *ACM Transactions on Database Systems* 1, no. 1 (1976): 9–36.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
 **Relational Data Model**
 
 In the last lecture, we discussed ER and object models as notations for building a conceptual model of relationships between different types of data objects. Eventually, for your app, you will need to take this model and encode it as concrete data inside a database. Many of today's databases systems are based on the idea of the relational data model, a way of organizing data in terms of relations. We will talk about how we can systematically transform an object model into a relational data model, as a first step in the design of your database. You will read a short article that introduces the basic elements of a relational data model: relations, attributes, and tuples, among others.
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-Ullman, Jeffrey D., and Jennifer Widom. "The Relational Data Model." Chapter 3 in _A First Course in Database Systems_. Prentice-Hall, 1997, pp. 85–90. ISBN: 9780138613372. \[Preview with [Google Books](http://books.google.com/books?id=nsUGI6K0JRIC&pg=PA78#v=onepage)\]
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen rowspan="2" >}}
+{{< tdclose >}}{{< tdopen >}}
+Ullman, Jeffrey D., and Jennifer Widom. "The Relational Data Model." Chapter 3 in *A First Course in Database Systems*. Prentice-Hall, 1997, pp. 85–90. ISBN: 9780138613372. \[Preview with [Google Books](http://books.google.com/books?id=nsUGI6K0JRIC&pg=PA78#v=onepage)\]
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Design Concepts**
 
@@ -150,107 +93,63 @@ What makes a good software design? Software engineering is a relatively young fi
 
 Nothing occurs in a vacuum; every program or system that you build will be part of some environment. You can't design a functional and reliable system without thinking about the context in which it operates. You will read a short snippet from Alexander's book, in which he describes design as the activity of finding a good fit between a "form" and its "context".
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
+Jackson, Michael A. "Brilliance." In *Software Requirements and Specifications: A Lexicon of Practice, Principles and Prejudices*. Addison-Wesley Professional, 1995, p. 20. ISBN: 9780201877120.
 
-
-Jackson, Michael A. "Brilliance." In _Software Requirements and Specifications: A Lexicon of Practice, Principles and Prejudices_. Addison-Wesley Professional, 1995, p. 20. ISBN: 9780201877120.
-
-Alexander, Christopher. "Goodness of Fit." _Notes on the Synthesis of Form_. Harvard University Press, 1964, pp. 15–9. IBSN: 9780674627512. \[Preview with [Google Books](http://books.google.com/books?id=Kh3T3XFUfPQC&pg=PA15#v=onepage)\]
+Alexander, Christopher. "Goodness of Fit." *Notes on the Synthesis of Form*. Harvard University Press, 1964, pp. 15–9. IBSN: 9780674627512. \[Preview with [Google Books](http://books.google.com/books?id=Kh3T3XFUfPQC&pg=PA15#v=onepage)\]
 
 \*Read up to the first paragraph on page 19.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
 **Conceptual Integrity**
 
 In the last lecture, we looked at some basic design concepts that you should keep in mind while building your own applications. Continuing on the same thread, you will read a chapter from Brook's seminal book, The Mythical Man-Month, in which he introduces the idea of "conceptual integrity" as the key quality of software design.
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-Brooks, Frederick P., Jr. "Aristocracy, Democracy, and System Design." Chapter 4 in _The Mythical Man-Month_. Addison-Wesley, 1975. ISBN: 9780201006506.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen rowspan="2" >}}
+{{< tdclose >}}{{< tdopen >}}
+Brooks, Frederick P., Jr. "Aristocracy, Democracy, and System Design." Chapter 4 in *The Mythical Man-Month*. Addison-Wesley, 1975. ISBN: 9780201006506.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Programming Language Design**
 
 Tony Hoare is an influential British computer scientist, perhaps best known for his invention of Quicksort. But he also made a number of long-lasting contributions to programming languages, software verification, and operating systems, for which he was awarded the Turing Award in 1980. The following lecture, which he gave during his acceptance of the award, contains many important lessons in programming language design that still remain relevant today (and sadly neglected by many designers).
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-Hoare, C. A. R. ["The Emperor's Old Clothes." (PDF)](https://dl.acm.org/doi/10.1145/358549.358561) _Communications of the ACM_ 24, no. 2 (1981): 75–83.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
+Hoare, C. A. R. ["The Emperor's Old Clothes." (PDF)](https://dl.acm.org/doi/10.1145/358549.358561) *Communications of the ACM* 24, no. 2 (1981): 75–83.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
 **Prototype-Based Programming**
 
-SELF is an influential language that inspired, among others, Javascript and its variants. Unlike Java or other class-based languages, SELF is based on the concept of _prototypes_, which involves making _clones_ of objects instead of instantiating them. You will read an introductory paper on SELF by the designers of the language. Think about how SELF differs from Java or other languages that you are already familiar with, and some trade-offs between prototypes vs. class-based approach to programming.
+SELF is an influential language that inspired, among others, Javascript and its variants. Unlike Java or other class-based languages, SELF is based on the concept of *prototypes*, which involves making *clones* of objects instead of instantiating them. You will read an introductory paper on SELF by the designers of the language. Think about how SELF differs from Java or other languages that you are already familiar with, and some trade-offs between prototypes vs. class-based approach to programming.
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Ungar, David, and Randall Smith. "[SELF: The Power of Simplicity](http://dx.doi.org/10.1007/BF01806105)." _LISP and Symbolic Computation_ 4, no. 3 (1991): 187–205.
+Ungar, David, and Randall Smith. "[SELF: The Power of Simplicity](http://dx.doi.org/10.1007/BF01806105)." *LISP and Symbolic Computation* 4, no. 3 (1991): 187–205.
 
 \*You do not need to read Sections 4, 7, and 8.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Client-Side Programming**
 
 Back in the old days of the Internet, most web applications were built on synchronous communication between a server and its clients. Whenever a client had a request to be fulfilled, it would wait for the server to process the request and return the response in form of an HTML page. As you can imagine, this resulted in a rather limited user experience; every time you edited a form or clicked on a link, you would have to wait until the browser loaded a new HTML page. But everything changed with Javascript and AJAX. The first of the readings is the article that introduced the term "AJAX," written by Garrett.
 
-One thing you should always keep in mind while working on your next web app: It's a piece of software that will be viewed and used by _other_ human beings. Sounds obvious, right? Surprisingly, there are a lot of apps out there where it's clear that the designer didn't think too hard about how the user would interact with the site. Porter's article introduces some basic principles that you should aim for when designing client-side interactions.
+One thing you should always keep in mind while working on your next web app: It's a piece of software that will be viewed and used by *other* human beings. Sounds obvious, right? Surprisingly, there are a lot of apps out there where it's clear that the designer didn't think too hard about how the user would interact with the site. Porter's article introduces some basic principles that you should aim for when designing client-side interactions.
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
+Garrett, Jesse James. "[Ajax: A New Appproach to Web Applications](http://adaptivepath.org/ideas/ajax-new-approach-web-applications/)." *Adaptive Path*, February 18, 2005.
 
+Porter, Joshua. "[Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)." *Bokardo*.
 
-Garrett, Jesse James. "[Ajax: A New Appproach to Web Applications](http://adaptivepath.org/ideas/ajax-new-approach-web-applications/)." _Adaptive Path_, February 18, 2005.
-
-Porter, Joshua. "[Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)." _Bokardo_.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen rowspan="2" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Structured Programming**
 
@@ -260,24 +159,15 @@ GOTO is a seemingly innocuous instruction for jumping from one place to another 
 
 The points that he makes here seem rather obvious now, but back then, the paper caused a lot of controversy, and many people were strongly against the ideas in it (one reviewer of the paper went as far as saying "I am confident that, 30 years from now, the goto will still be alive and well and used as widely as it is today.").
 
-A modern incarnation of the problem that Dijkstra describes is sometimes called _callback hell_. Unless you are judicious about the use of callbacks, you could easily end up with a mess of Javascript code that's difficult to understand and debug. Unfortunately, we don't yet have a proven alternative that we can use to implement complex client-side interactions. Thankfully, not all is lost: _Functional reactive programming (FRP)_ is a style of programming that has recently surfaced as a potential solution to the callback hell. The following article, written by the designer of a FRP language called _Elm_, introduces the problem with callbacks and describes how FRP might be used to fix it. Focus on the high-level ideas behind FRP; you do not need to understand the details of the Elm language.
+A modern incarnation of the problem that Dijkstra describes is sometimes called *callback hell*. Unless you are judicious about the use of callbacks, you could easily end up with a mess of Javascript code that's difficult to understand and debug. Unfortunately, we don't yet have a proven alternative that we can use to implement complex client-side interactions. Thankfully, not all is lost: *Functional reactive programming (FRP)* is a style of programming that has recently surfaced as a potential solution to the callback hell. The following article, written by the designer of a FRP language called *Elm*, introduces the problem with callbacks and describes how FRP might be used to fix it. Focus on the high-level ideas behind FRP; you do not need to understand the details of the Elm language.
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
+Dijkstra, Edsger W. "Go To Statement Considered Harmful." *Communications of the ACM* 11, no. 3 (1968): 147–48.
 
+Czaplicki, Evan. "[Escape from Callback Hell](https://elm-lang.org/news/0.5)." *Elm*.
 
-Dijkstra, Edsger W. "[Go To Statement Considered Harmful](http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html)." _Communications of the ACM_ 11, no. 3 (1968): 147–48.
-
-Czaplicki, Evan. "[Escape from Callback Hell](https://elm-lang.org/news/0.5)." _Elm_.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
 **Web Security**
 
@@ -287,25 +177,15 @@ In Zalewski's article, we will explore some of the reasons why the widespread us
 
 It turns out that there are a number of things that we could do to make our systems reasonably secure against common security attacks. Unfortunately, unlike in many other engineering fields, such as civil or aerospace, software engineers often neglect to learn from our past mistakes, leaving glaring holes in software that we already know how to fix. Ranum's article describes some of the most common security mistakes that we tend to repeat again and again.
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
+Zalewski, Michal. "Security in the World of Web Applications." Chapter 1 in *Tangled Web: A Guide to Securing Modern Web Applications*. No Starch Press, 2011, pp. 14–8. ISBN: 9781593273880. \[Preview with [Google Books](http://books.google.com/books?id=NU3wOk2jzWsC&pg=PA1=onepage)\]
 
+Ranum, Marcus. ["Six dumbest Ideas in Computer Security." (PDF)](http://www.cs.clemson.edu/course/cpsc420/material/Papers/The%20Six%20Dumbest%20Ideas%20in%20Computer%20Security.pdf) *Ranum,* September 1, 2005.
 
-Zalewski, Michal. "Security in the World of Web Applications." Chapter 1 in _Tangled Web: A Guide to Securing Modern Web Applications_. No Starch Press, 2011, pp. 14–8. ISBN: 9781593273880. \[Preview with [Google Books](http://books.google.com/books?id=NU3wOk2jzWsC&pg=PA1=onepage)\]
-
-Ranum, Marcus. ["Six dumbest Ideas in Computer Security." (PDF)](http://www.cs.clemson.edu/course/cpsc420/material/Papers/The%20Six%20Dumbest%20Ideas%20in%20Computer%20Security.pdf) _Ranum,_ September 1, 2005.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Software Development Methods**
 
@@ -315,27 +195,17 @@ Edsger Dijkstra was a strong advocate of a style of software development in whic
 
 (Unfortunately, this particular article uses a racist idiom; in 1978, at the time of writing, there was less of a consensus that offensive references of this sort should not be used.)
 
-Brook's famous book, _The Mythical Man-Month_, is full of gems that have had long-lasting impact on the field of software engineering since its publication in 1975. One of them hinted at a style of development that was ignored for many years, but has become very popular in the last decade or so — namely, agile development. In the chapter from his book, you will read about the idea of building a system to eventually throw away, which may seem counter-intuitive at first.
+Brook's famous book, *The Mythical Man-Month*, is full of gems that have had long-lasting impact on the field of software engineering since its publication in 1975. One of them hinted at a style of development that was ignored for many years, but has become very popular in the last decade or so — namely, agile development. In the chapter from his book, you will read about the idea of building a system to eventually throw away, which may seem counter-intuitive at first.
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Dijkstra, Edsger. "[The pragmatic engineer versus the scientific designer](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD690.html)." 1978.
 
-Brooks, Frederick P., Jr. "Plan to Throw One Away." Chapter 18 in _The Mythical Man-Month: Essays on Software Engineering_. Addison-Wesley, 1975. ISBN: 9780201006506.
+Brooks, Frederick P., Jr. "Plan to Throw One Away." Chapter 18 in *The Mythical Man-Month: Essays on Software Engineering*. Addison-Wesley, 1975. ISBN: 9780201006506.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen rowspan="2" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 **Designing Dependable Software**
 
@@ -345,22 +215,13 @@ One of the most alarming examples of badly written software causing direct harm 
 
 You will also watch a related clip, which illustrates some of the points from the article.
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Thimbleby, Harold. "[Ignorance of Interaction Programming is Killing People](http://dl.acm.org/citation.cfm?doid=1390085.1390098)." _Interactions_ 15, no. 5 (2008): 52–7.
+Thimbleby, Harold. "[Ignorance of Interaction Programming is Killing People](http://dl.acm.org/citation.cfm?doid=1390085.1390098)." *Interactions* 15, no. 5 (2008): 52–7.
 
 ———. "Saving Lives by Design." September 1, 2011. Youtube. [www.youtube.com/watch?v=glwtlH0oYc0](http://www.youtube.com/watch?v=glwtlH0oYc0)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
 **Presenting Your Ideas**
 
@@ -368,16 +229,6 @@ Having a good idea is just the beginning; you need to be able to communicate you
 
 But what distinguishes a great talk from a boring, seemingly mindless presentation? There is lots of advice out there on making a good presentation, but many agree that you need to be able to present a compelling story to engage your audience.
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Duarte, Nancy. _Resonate: Present Visual Stories that Transform Audiences_. Wiley, 2010, pp. 110–15. ISBN: 9780470632017.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< tdopen >}}
+Duarte, Nancy. *Resonate: Present Visual Stories that Transform Audiences*. Wiley, 2010, pp. 110–15. ISBN: 9780470632017.
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
