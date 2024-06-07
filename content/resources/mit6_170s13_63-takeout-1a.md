@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 63.
 file: /courses/6-170-software-studio-spring-2013/41a5b3d41ad0468573281c0657a2a2c5_MIT6_170S13_63-takeout-1a.pdf
+file_size: 296229
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

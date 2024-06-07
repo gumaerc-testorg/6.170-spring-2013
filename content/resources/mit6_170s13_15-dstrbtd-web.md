@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 15.
 file: /courses/6-170-software-studio-spring-2013/1a1b194842fbc13810bf23148b709de8_MIT6_170S13_15-dstrbtd-web.pdf
+file_size: 904258
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
