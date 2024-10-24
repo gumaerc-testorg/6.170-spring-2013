@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 49.
-file: /courses/6-170-software-studio-spring-2013/cf2a80ea30ab612907a23a981d5e7f27_MIT6_170S13_49-asyn-app.pdf
+file: /ol-ocw-studio-app/courses/6-170-software-studio-spring-2013/cf2a80ea30ab612907a23a981d5e7f27_MIT6_170S13_49-asyn-app.pdf
 file_size: 617569
 file_type: application/pdf
 learning_resource_types:
