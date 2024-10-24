@@ -143,7 +143,7 @@ One thing you should always keep in mind while working on your next web app: It'
 
 {{< tdclose >}}{{< tdopen >}}
 
-Garrett, Jesse James. "[Ajax: A New Appproach to Web Applications](http://adaptivepath.org/ideas/ajax-new-approach-web-applications/)." *Adaptive Path*, February 18, 2005.
+Garrett, Jesse James. "Ajax: A New Appproach to Web Applications." *Adaptive Path*, February 18, 2005.
 
 Porter, Joshua. "[Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)." *Bokardo*.
 
@@ -217,7 +217,7 @@ You will also watch a related clip, which illustrates some of the points from th
 
 {{< tdclose >}}{{< tdopen >}}
 
-Thimbleby, Harold. "[Ignorance of Interaction Programming is Killing People](http://dl.acm.org/citation.cfm?doid=1390085.1390098)." *Interactions* 15, no. 5 (2008): 52–7.
+Thimbleby, Harold. "[Ignorance of Interaction Programming is Killing People](https://doi.org/10.1145/1390085.1390098)." *Interactions* 15, no. 5 (2008): 52–7.
 
 ———. "Saving Lives by Design." September 1, 2011. Youtube. [www.youtube.com/watch?v=glwtlH0oYc0](http://www.youtube.com/watch?v=glwtlH0oYc0)
 
