@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 62.
-file: /courses/6-170-software-studio-spring-2013/defb9375c40b3087c471aa0fc7182453_MIT6_170S13_62-takeout1.pdf
+file: /ol-ocw-studio-app/courses/6-170-software-studio-spring-2013/defb9375c40b3087c471aa0fc7182453_MIT6_170S13_62-takeout1.pdf
 file_size: 524646
 file_type: application/pdf
 learning_resource_types:
