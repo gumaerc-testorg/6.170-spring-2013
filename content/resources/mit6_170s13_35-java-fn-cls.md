@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 35.
-file: /ol-ocw-studio-app/courses/6-170-software-studio-spring-2013/679f1c8ddab704fcf6983cad517fb9e5_MIT6_170S13_35-java-fn-cls.pdf
+file: /courses/6-170-software-studio-spring-2013/679f1c8ddab704fcf6983cad517fb9e5_MIT6_170S13_35-java-fn-cls.pdf
 file_size: 1101793
 file_type: application/pdf
 learning_resource_types:

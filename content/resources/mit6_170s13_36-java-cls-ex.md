@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 36.
-file: /ol-ocw-studio-app/courses/6-170-software-studio-spring-2013/d255d970e8da2f5ae8586b1d00a3a580_MIT6_170S13_36-java-cls-ex.pdf
+file: /courses/6-170-software-studio-spring-2013/d255d970e8da2f5ae8586b1d00a3a580_MIT6_170S13_36-java-cls-ex.pdf
 file_size: 598717
 file_type: application/pdf
 learning_resource_types:

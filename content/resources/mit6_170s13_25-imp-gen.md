@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 25.
-file: /ol-ocw-studio-app/courses/6-170-software-studio-spring-2013/cb571aa72939fb6a8c8732d5daabb98c_MIT6_170S13_25-imp-gen.pdf
+file: /courses/6-170-software-studio-spring-2013/cb571aa72939fb6a8c8732d5daabb98c_MIT6_170S13_25-imp-gen.pdf
 file_size: 604457
 file_type: application/pdf
 learning_resource_types:

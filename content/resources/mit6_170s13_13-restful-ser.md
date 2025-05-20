@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 13.
-file: /ol-ocw-studio-app/courses/6-170-software-studio-spring-2013/aa065f57ba2b6fbef32a9fb47ed9e7d5_MIT6_170S13_13-restful-ser.pdf
+file: /courses/6-170-software-studio-spring-2013/aa065f57ba2b6fbef32a9fb47ed9e7d5_MIT6_170S13_13-restful-ser.pdf
 file_size: 415732
 file_type: application/pdf
 learning_resource_types:
