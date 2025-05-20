@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding recitation 4.
-file: /ol-ocw-studio-app/courses/6-170-software-studio-spring-2013/060eff858447665987324630ccc42026_MIT6_170S13_rec4-SessAuthen.pdf
+file: /courses/6-170-software-studio-spring-2013/060eff858447665987324630ccc42026_MIT6_170S13_rec4-SessAuthen.pdf
 file_size: 762861
 file_type: application/pdf
 learning_resource_types:

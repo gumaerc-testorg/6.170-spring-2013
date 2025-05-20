@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 24.
-file: /ol-ocw-studio-app/courses/6-170-software-studio-spring-2013/e939dd0c9aa911110aca65bb317f55da_MIT6_170S13_24-objt-mdl-tns.pdf
+file: /courses/6-170-software-studio-spring-2013/e939dd0c9aa911110aca65bb317f55da_MIT6_170S13_24-objt-mdl-tns.pdf
 file_size: 685567
 file_type: application/pdf
 learning_resource_types:

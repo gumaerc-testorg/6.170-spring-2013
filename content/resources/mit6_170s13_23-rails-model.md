@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 23.
-file: /ol-ocw-studio-app/courses/6-170-software-studio-spring-2013/7cb37d4617509263123ef8e47255bd4f_MIT6_170S13_23-rails-model.pdf
+file: /courses/6-170-software-studio-spring-2013/7cb37d4617509263123ef8e47255bd4f_MIT6_170S13_23-rails-model.pdf
 file_size: 622788
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 42.
-file: /ol-ocw-studio-app/courses/6-170-software-studio-spring-2013/2781cde2015754d7b34d145270898b70_MIT6_170S13_42-dom-intro.pdf
+file: /courses/6-170-software-studio-spring-2013/2781cde2015754d7b34d145270898b70_MIT6_170S13_42-dom-intro.pdf
 file_size: 926376
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 22.
-file: /ol-ocw-studio-app/courses/6-170-software-studio-spring-2013/305ff2190440ea25835a80fc0eae8838_MIT6_170S13_22-objt-mdl-dyn.pdf
+file: /courses/6-170-software-studio-spring-2013/305ff2190440ea25835a80fc0eae8838_MIT6_170S13_22-objt-mdl-dyn.pdf
 file_size: 847878
 file_type: application/pdf
 learning_resource_types:
