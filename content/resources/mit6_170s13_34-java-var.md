@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 34.
-file: /ol-ocw-studio-app/courses/6-170-software-studio-spring-2013/5b17f0804dd07d7c470efe7719b72cfd_MIT6_170S13_34-java-var.pdf
+file: /courses/6-170-software-studio-spring-2013/5b17f0804dd07d7c470efe7719b72cfd_MIT6_170S13_34-java-var.pdf
 file_size: 597287
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 57.
-file: /ol-ocw-studio-app/courses/6-170-software-studio-spring-2013/054a2e17f052ffb1511980b4a81118f8_MIT6_170S13_57-mdl-http.pdf
+file: /courses/6-170-software-studio-spring-2013/054a2e17f052ffb1511980b4a81118f8_MIT6_170S13_57-mdl-http.pdf
 file_size: 680173
 file_type: application/pdf
 learning_resource_types:

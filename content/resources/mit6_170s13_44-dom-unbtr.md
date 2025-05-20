@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 44.
-file: /ol-ocw-studio-app/courses/6-170-software-studio-spring-2013/ac602dc3d5f40fdeb8d2b6a88afaf36c_MIT6_170S13_44-dom-unbtr.pdf
+file: /courses/6-170-software-studio-spring-2013/ac602dc3d5f40fdeb8d2b6a88afaf36c_MIT6_170S13_44-dom-unbtr.pdf
 file_size: 615839
 file_type: application/pdf
 learning_resource_types:
