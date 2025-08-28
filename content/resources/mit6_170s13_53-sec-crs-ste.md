@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 53.
-file: /courses/6-170-software-studio-spring-2013/de43acfd1ff524bb47f756caa63a0a8d_MIT6_170S13_53-sec-crs-ste.pdf
+file: /ol-ocw-studio-app/courses/6-170-software-studio-spring-2013/de43acfd1ff524bb47f756caa63a0a8d_MIT6_170S13_53-sec-crs-ste.pdf
 file_size: 648357
 file_type: application/pdf
 learning_resource_types:
