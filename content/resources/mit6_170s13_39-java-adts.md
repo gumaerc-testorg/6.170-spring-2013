@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 39.
-file: /courses/6-170-software-studio-spring-2013/ac8ff1830ce6b0886b13b8ff4b353d71_MIT6_170S13_39-java-adts.pdf
+file: /ol-ocw-studio-app/courses/6-170-software-studio-spring-2013/ac8ff1830ce6b0886b13b8ff4b353d71_MIT6_170S13_39-java-adts.pdf
 file_size: 611100
 file_type: application/pdf
 learning_resource_types:
