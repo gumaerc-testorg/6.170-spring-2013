@@ -111,7 +111,7 @@ The solo projects are to be done individually though you may discuss your approa
 
 ### Reuse
 
-You are free to use any third-party code, whether as libraries or code fragments, and to adopt any ideas you find online or in books, so long as it is publicly available and appropriately cited (see the [section on code](http://integrity.mit.edu/handbook/writing-code) in the [MIT Academic Integrity Handbook](http://web.mit.edu/academicintegrity) for details). You may not use work produced by students in earlier offerings of this class. If you violate this policy, you can expect to be asked to drop the class (or worse). The team projects, of course, are intended to be fully collaborative.
+You are free to use any third-party code, whether as libraries or code fragments, and to adopt any ideas you find online or in books, so long as it is publicly available and appropriately cited (see the {{% resource_link "845a69be-afc2-43b1-95ee-cb9bb18b9165" "section on code" %}} in the {{% resource_link "f5cea74d-4926-4fbd-9c2f-cc6e90e9a845" "MIT Academic Integrity Handbook" %}} for details). You may not use work produced by students in earlier offerings of this class. If you violate this policy, you can expect to be asked to drop the class (or worse). The team projects, of course, are intended to be fully collaborative.
 
 Class Contract
 --------------
