@@ -11,13 +11,13 @@ uid: 6b6aaff6-5564-7548-6cac-616cb72ef1ea
 ---
 The readings, in the form of short articles and papers, assigned for each class are listed in the table below. While there is no required textbook for the course, recommended books include:
 
-Crockford, Douglas. *JavaScript: The Good Parts*. O'Reilly Media, 2008. ISBN: 9780596517748. \[Preview with [Google Books](http://books.google.com/books?id=PXa2bby0oQ0C&pg=PAfrontcover)\]
+Crockford, Douglas. *JavaScript: The Good Parts*. O'Reilly Media, 2008. ISBN: 9780596517748. \[Preview with {{% resource_link "3f0c7200-722e-4a42-9e1b-1da69ca93ccf" "Google Books" %}}\]
 
-Fernandez, Obie. *The Rails 3 Way*. 2nd ed. Addison-Wesley Professional, 2010. ISBN: 9780321601667. \[Preview with [Google Books](http://books.google.com/books?id=slwLAqkT_Y0C&pg=PAfrontcover)\]
+Fernandez, Obie. *The Rails 3 Way*. 2nd ed. Addison-Wesley Professional, 2010. ISBN: 9780321601667. \[Preview with {{% resource_link "c3caf00e-0648-4b20-bc14-ab2786b0349b" "Google Books" %}}\]
 
 Fulton, Hal. *The Ruby Way, Second Edition*. 2nd ed. Addison-Wesley Professional, 2006. ISBN: 9780672328848.
 
-Stefanov, Stoyan. *JavaScript Patterns*. O'Reilly Media, 2010. ISBN: 9780596806750. \[Preview with [Google Books](http://books.google.com/books?id=WTZqecc9olUC&pg=PAfrontcover)\]
+Stefanov, Stoyan. *JavaScript Patterns*. O'Reilly Media, 2010. ISBN: 9780596806750. \[Preview with {{% resource_link "3b7623bc-cb34-4cc3-b526-0b73210d66bf" "Google Books" %}}\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
@@ -41,9 +41,9 @@ These readings introduce one of the most important concepts in software engineer
 
 {{< tdclose >}}{{< tdopen >}}
 
-Dikstra, E. W. "[On the Role of Scientific Thought](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD447.html)." In *Selected Writings on Computing: A Personal Perspective*. Springer, 1982, pp. 60–6. ISBN: 9780387906522.
+Dikstra, E. W. "{{% resource_link "4c7f72fa-54f1-4e8a-be57-810f7e10e7cc" "On the Role of Scientific Thought" %}}." In *Selected Writings on Computing: A Personal Perspective*. Springer, 1982, pp. 60–6. ISBN: 9780387906522.
 
-Fowler, Martin. "The Three Principal Layers." Chapter 1 in *Patterns of Enterprise Application Architecture*. Addison-Wesley Professional, 2002. ISBN: 9780321127426. \[Preview with [Google Books](http://books.google.com/books?id=vqTfNFDzzdIC&printsec=frontcover)\]
+Fowler, Martin. "The Three Principal Layers." Chapter 1 in *Patterns of Enterprise Application Architecture*. Addison-Wesley Professional, 2002. ISBN: 9780321127426. \[Preview with {{% resource_link "f828738d-9d6a-486e-896a-be5d4709b0c4" "Google Books" %}}\]
 
 ———. "Model View Controller." Chapter 14 in *Patterns of Enterprise Application Architecture*. Addison-Wesley Professional, 2002. ISBN: 9780321127426.
 
@@ -57,9 +57,9 @@ In the second part, you will read about REST, a style of designing web applicati
 
 {{< tdclose >}}{{< tdopen >}}
 
-Parnas, David L. "[Designing Software for Ease of Extension and Contraction](http://dx.doi.org/10.1109/TSE.1979.234169)." *IEEE Transactions on Software Engineering* 5, no. 2 (1979): 128–38.
+Parnas, David L. "{{% resource_link "7ed3cbd5-3462-464b-b980-bfd3980d17c2" "Designing Software for Ease of Extension and Contraction" %}}." *IEEE Transactions on Software Engineering* 5, no. 2 (1979): 128–38.
 
-Benson, Edward. "Resources and REST." Chapter 6 in *Art of Rails (Programmer to Programmer)*. Wrox, 2008. ISBN: 9780470189481. \[Preview with [Google Books](http://books.google.com/books?id=BaitKM5lPQUC&pg=PA115#v=onepage)\]
+Benson, Edward. "Resources and REST." Chapter 6 in *Art of Rails (Programmer to Programmer)*. Wrox, 2008. ISBN: 9780470189481. \[Preview with {{% resource_link "cb0915c9-575f-4da0-b139-ab369b380e75" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 3
@@ -72,7 +72,7 @@ When you begin designing your new application, you will have some mental model o
 In the reading, you will be introduced to two different notations that are intended to help you write these models down in a systematic way. You will read Chen's classic paper, which introduced the idea of entity-relationship (ER) models. The ER model has had a tremendous influence on many fields of computer science, especially on database design, and is still widely taught and used today. Again, focus on the high-level ideas, especially in the first three sections of the paper.
 
 {{< tdclose >}}{{< tdopen >}}
-Chen, Peter. "[The Entity-Relationship Model – Toward a Unified view of Data](http://dx.doi.org/10.1145/320434.320440)." *ACM Transactions on Database Systems* 1, no. 1 (1976): 9–36.
+Chen, Peter. "{{% resource_link "84e74cfe-727c-4b10-9482-3a9b14131bb5" "The Entity-Relationship Model – Toward a Unified view of Data" %}}." *ACM Transactions on Database Systems* 1, no. 1 (1976): 9–36.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
 **Relational Data Model**
@@ -80,7 +80,7 @@ Chen, Peter. "[The Entity-Relationship Model – Toward a Unified view of Data](
 In the last lecture, we discussed ER and object models as notations for building a conceptual model of relationships between different types of data objects. Eventually, for your app, you will need to take this model and encode it as concrete data inside a database. Many of today's databases systems are based on the idea of the relational data model, a way of organizing data in terms of relations. We will talk about how we can systematically transform an object model into a relational data model, as a first step in the design of your database. You will read a short article that introduces the basic elements of a relational data model: relations, attributes, and tuples, among others.
 
 {{< tdclose >}}{{< tdopen >}}
-Ullman, Jeffrey D., and Jennifer Widom. "The Relational Data Model." Chapter 3 in *A First Course in Database Systems*. Prentice-Hall, 1997, pp. 85–90. ISBN: 9780138613372. \[Preview with [Google Books](http://books.google.com/books?id=nsUGI6K0JRIC&pg=PA78#v=onepage)\]
+Ullman, Jeffrey D., and Jennifer Widom. "The Relational Data Model." Chapter 3 in *A First Course in Database Systems*. Prentice-Hall, 1997, pp. 85–90. ISBN: 9780138613372. \[Preview with {{% resource_link "dad24e2a-7a2b-447b-9a66-f2442b27fc73" "Google Books" %}}\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}{{< tdopen >}}
@@ -97,7 +97,7 @@ Nothing occurs in a vacuum; every program or system that you build will be part 
 
 Jackson, Michael A. "Brilliance." In *Software Requirements and Specifications: A Lexicon of Practice, Principles and Prejudices*. Addison-Wesley Professional, 1995, p. 20. ISBN: 9780201877120.
 
-Alexander, Christopher. "Goodness of Fit." *Notes on the Synthesis of Form*. Harvard University Press, 1964, pp. 15–9. IBSN: 9780674627512. \[Preview with [Google Books](http://books.google.com/books?id=Kh3T3XFUfPQC&pg=PA15#v=onepage)\]
+Alexander, Christopher. "Goodness of Fit." *Notes on the Synthesis of Form*. Harvard University Press, 1964, pp. 15–9. IBSN: 9780674627512. \[Preview with {{% resource_link "c96d20e8-a0b9-4a2b-a1ad-4fbc310f4293" "Google Books" %}}\]
 
 \*Read up to the first paragraph on page 19.
 
@@ -118,7 +118,7 @@ Brooks, Frederick P., Jr. "Aristocracy, Democracy, and System Design." Chapter 4
 Tony Hoare is an influential British computer scientist, perhaps best known for his invention of Quicksort. But he also made a number of long-lasting contributions to programming languages, software verification, and operating systems, for which he was awarded the Turing Award in 1980. The following lecture, which he gave during his acceptance of the award, contains many important lessons in programming language design that still remain relevant today (and sadly neglected by many designers).
 
 {{< tdclose >}}{{< tdopen >}}
-Hoare, C. A. R. ["The Emperor's Old Clothes." (PDF)](https://dl.acm.org/doi/10.1145/358549.358561) *Communications of the ACM* 24, no. 2 (1981): 75–83.
+Hoare, C. A. R. {{% resource_link "bde5b2ec-ac34-4c56-83d8-8f4de16fa174" "\"The Emperor's Old Clothes.\" (PDF)" %}} *Communications of the ACM* 24, no. 2 (1981): 75–83.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
 **Prototype-Based Programming**
@@ -127,7 +127,7 @@ SELF is an influential language that inspired, among others, Javascript and its 
 
 {{< tdclose >}}{{< tdopen >}}
 
-Ungar, David, and Randall Smith. "[SELF: The Power of Simplicity](http://dx.doi.org/10.1007/BF01806105)." *LISP and Symbolic Computation* 4, no. 3 (1991): 187–205.
+Ungar, David, and Randall Smith. "{{% resource_link "427a7fa2-67f0-4768-bbeb-99102f20658c" "SELF: The Power of Simplicity" %}}." *LISP and Symbolic Computation* 4, no. 3 (1991): 187–205.
 
 \*You do not need to read Sections 4, 7, and 8.
 
@@ -145,7 +145,7 @@ One thing you should always keep in mind while working on your next web app: It'
 
 Garrett, Jesse James. "Ajax: A New Appproach to Web Applications." *Adaptive Path*, February 18, 2005.
 
-Porter, Joshua. "[Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)." *Bokardo*.
+Porter, Joshua. "{{% resource_link "35e3937a-f5f8-495f-976a-63fa97021ef6" "Principles of User Interface Design" %}}." *Bokardo*.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 7
@@ -165,7 +165,7 @@ A modern incarnation of the problem that Dijkstra describes is sometimes called 
 
 Dijkstra, Edsger W. "Go To Statement Considered Harmful." *Communications of the ACM* 11, no. 3 (1968): 147–48.
 
-Czaplicki, Evan. "[Escape from Callback Hell](https://elm-lang.org/news/0.5)." *Elm*.
+Czaplicki, Evan. "{{% resource_link "fe133f98-6bfe-40de-8778-41f8ff30b2ae" "Escape from Callback Hell" %}}." *Elm*.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -179,9 +179,9 @@ It turns out that there are a number of things that we could do to make our syst
 
 {{< tdclose >}}{{< tdopen >}}
 
-Zalewski, Michal. "Security in the World of Web Applications." Chapter 1 in *Tangled Web: A Guide to Securing Modern Web Applications*. No Starch Press, 2011, pp. 14–8. ISBN: 9781593273880. \[Preview with [Google Books](http://books.google.com/books?id=NU3wOk2jzWsC&pg=PA1=onepage)\]
+Zalewski, Michal. "Security in the World of Web Applications." Chapter 1 in *Tangled Web: A Guide to Securing Modern Web Applications*. No Starch Press, 2011, pp. 14–8. ISBN: 9781593273880. \[Preview with {{% resource_link "cbc7d8fd-8ce0-4289-94c0-d6aa31a450ae" "Google Books" %}}\]
 
-Ranum, Marcus. ["Six dumbest Ideas in Computer Security." (PDF)](http://www.cs.clemson.edu/course/cpsc420/material/Papers/The%20Six%20Dumbest%20Ideas%20in%20Computer%20Security.pdf) *Ranum,* September 1, 2005.
+Ranum, Marcus. {{% resource_link "22afd162-80fc-4bab-b58b-3e31a96cff76" "\"Six dumbest Ideas in Computer Security.\" (PDF)" %}} *Ranum,* September 1, 2005.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -199,7 +199,7 @@ Brook's famous book, *The Mythical Man-Month*, is full of gems that have had lon
 
 {{< tdclose >}}{{< tdopen >}}
 
-Dijkstra, Edsger. "[The pragmatic engineer versus the scientific designer](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD690.html)." 1978.
+Dijkstra, Edsger. "{{% resource_link "5eb6ea09-1c10-4dbc-a7a1-f618cc46da75" "The pragmatic engineer versus the scientific designer" %}}." 1978.
 
 Brooks, Frederick P., Jr. "Plan to Throw One Away." Chapter 18 in *The Mythical Man-Month: Essays on Software Engineering*. Addison-Wesley, 1975. ISBN: 9780201006506.
 
@@ -217,9 +217,9 @@ You will also watch a related clip, which illustrates some of the points from th
 
 {{< tdclose >}}{{< tdopen >}}
 
-Thimbleby, Harold. "[Ignorance of Interaction Programming is Killing People](https://doi.org/10.1145/1390085.1390098)." *Interactions* 15, no. 5 (2008): 52–7.
+Thimbleby, Harold. "{{% resource_link "458ed841-c443-42cd-bb00-5997215f89a1" "Ignorance of Interaction Programming is Killing People" %}}." *Interactions* 15, no. 5 (2008): 52–7.
 
-———. "Saving Lives by Design." September 1, 2011. Youtube. [www.youtube.com/watch?v=glwtlH0oYc0](http://www.youtube.com/watch?v=glwtlH0oYc0)
+———. "Saving Lives by Design." September 1, 2011. Youtube. {{% resource_link "ab9aa00e-7720-421b-aa06-d2148f6077ef" "www.youtube.com/watch?v=glwtlH0oYc0" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
